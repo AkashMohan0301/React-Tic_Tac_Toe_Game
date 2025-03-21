@@ -46,4 +46,4 @@ Feel free to fork this repository and submit pull requests for improvements.
 This project is licensed under the MIT License.
 
 #Screenshot
-![Project Preview](public/image.png)
+-![Project Preview](public/image.png)
